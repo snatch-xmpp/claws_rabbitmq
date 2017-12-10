@@ -1,6 +1,6 @@
 
 
-# Claws REST #
+# Claws RabbitMQ #
 
 Copyright (c) 2017 Thiago Camargo
 

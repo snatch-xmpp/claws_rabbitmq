@@ -1,6 +1,6 @@
 @author "Thiago Camargo" <barata7@gmail.com>
 @copyright 2017 Thiago Camargo
-@title Claws REST
+@title Claws RabbitMQ
 
 @doc
 <a href="https://travis-ci.org/snatch-xmpp/claws_rabbitmq"><img src="https://img.shields.io/travis/snatch-xmpp/claws_rabbitmq/master.svg" alt="Build Status"/></a>
