@@ -1,0 +1,14 @@
+{application, claws_rabbitmq, [
+    {description, "AMQP Client for Snatch"},
+    {vsn, git},
+    {registered, []},
+    {applications, [kernel,
+                    stdlib,
+                    snatch,
+                    amqp_client,
+                    rabbit_common]},
+    {env, []},
+    {maintainers, ["Manuel Rubio"]},
+    {licenses, ["Apache License 2.1"]},
+    {links, [{"Github", "https://github.com/snatch-xmpp/claws_rabbitmq"}]}
+]}.
